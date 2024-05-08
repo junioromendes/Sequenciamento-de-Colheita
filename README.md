@@ -1,4 +1,4 @@
-##  Inovação em Gestão Florestal: Automatização do Sequenciamento de Colheita 🌲
+<h1>Inovação em Gestão Florestal: Automatização do Sequenciamento de Colheita 🌲</h1> 
 
 Descrição do Projeto
 Este repositório contém um script Python projetado para facilitar o planejamento e a execução do plano de colheita florestal. O script utiliza uma combinação de bibliotecas Python para manipular dados, realizar análises geoespaciais, visualizar dados e automatizar a geração de relatórios. O objetivo é otimizar o sequenciamento de operações, a logística de colheita e o monitoramento das atividades através de dados extraídos e processados de planilhas Excel e shapefiles.
