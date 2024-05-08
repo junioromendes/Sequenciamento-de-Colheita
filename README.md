@@ -1,1 +1,1 @@
-# Sequenciamento-de-Colheita
+🌲 #  Inovação em Gestão Florestal: Automatização do Sequenciamento de Colheita 
